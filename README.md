@@ -167,6 +167,83 @@ Os dados previamente importados, as medidas DAX, os relacionamentos e os dashboa
 
 Entretanto, a fonte Excel original não está mais disponível. Dessa forma, a atualização dos dados e a execução de determinadas etapas do Power Query dependem da recuperação ou reconexão à fonte original.
 
+## Insights e Análise dos Resultados
+
+A partir da exploração dos dashboards desenvolvidos durante o curso da Alura, realizei uma análise dos principais indicadores comerciais, buscando identificar tendências, diferenças de desempenho e oportunidades de investigação.
+
+### 1. Evolução anual do faturamento
+
+A análise demonstrou uma redução de **9,52% no faturamento de 2022 em relação a 2021**, seguida de uma recuperação de **20,41% em 2023**.
+
+Considerando essas variações, o faturamento de 2023 superou o de 2021 em aproximadamente **8,95%**, indicando uma recuperação superior à queda registrada anteriormente.
+
+Em 2024, o faturamento alcançou aproximadamente **R$ 204 mil**, mantendo a trajetória de crescimento observada desde 2023.
+
+**Interpretação:** após a queda em 2022, os resultados apresentaram recuperação e crescimento nos dois anos seguintes. Seria interessante investigar quais produtos e categorias contribuíram para essa evolução.
+
+### 2. Participação das categorias no faturamento
+
+A análise por categoria apresentou os seguintes valores aproximados:
+
+| Categoria | Faturamento |
+|---|---:|
+| Maquiagem | R$ 290 mil |
+| Perfumes | R$ 210 mil |
+| Skincare | R$ 150 mil |
+| Cabelos | R$ 60 mil |
+
+A categoria **Maquiagem apresentou o maior faturamento**, seguida por Perfumes.
+
+Juntas, essas duas categorias representam aproximadamente **70% do faturamento total**, considerando os valores arredondados exibidos no dashboard.
+
+**Interpretação:** existe uma concentração relevante do faturamento nas categorias Maquiagem e Perfumes. Isso pode indicar a importância comercial desses segmentos e justificar análises mais detalhadas sobre sua evolução, quantidade vendida e participação na receita.
+
+### 3. Desempenho das metas
+
+O dashboard apresenta um faturamento acumulado de aproximadamente **R$ 714 mil**, enquanto o indicador de metas exibe uma referência de aproximadamente **R$ 396,14 mil**.
+
+O faturamento está acima desse valor de referência. Entretanto, antes de concluir que houve superação da meta comercial acumulada, é necessário verificar como a medida foi calculada.
+
+**Interpretação:** o acompanhamento de metas é importante para avaliar o desempenho comercial, mas os indicadores precisam utilizar períodos e critérios de agregação compatíveis para permitir comparações adequadas.
+
+### 4. Distribuição geográfica das vendas
+
+O mapa apresenta registros de vendas em diferentes localidades, com pontos distribuídos por diversas regiões.
+
+**Interpretação:** a distribuição geográfica permite identificar áreas com maior concentração de vendas e investigar diferenças de desempenho regional.
+
+Uma análise complementar poderia comparar faturamento, quantidade vendida e participação percentual por cidade, identificando localidades com maior relevância comercial.
+
+### 5. Desempenho individual dos produtos
+
+O dashboard de Produtos apresenta um ranking com diferenças significativas entre os valores dos produtos analisados.
+
+O gráfico de barras permite identificar produtos de maior destaque, enquanto o gráfico de dispersão possibilita comparar indicadores e observar a distribuição dos resultados.
+
+**Interpretação:** os produtos não apresentam desempenho uniforme. A concentração de resultados em determinados itens pode orientar investigações sobre participação no faturamento, volume de vendas e oportunidades de crescimento.
+
+### 6. Relação entre preço e faturamento
+
+O gráfico de dispersão apresenta produtos distribuídos de acordo com indicadores de preço e faturamento.
+
+Observa-se que produtos com diferentes valores de preço também apresentam diferentes níveis de faturamento, incluindo alguns pontos que se destacam dos demais.
+
+**Interpretação:** o preço, isoladamente, não é suficiente para explicar o desempenho comercial de um produto. É importante considerar também a quantidade vendida, a categoria e outros fatores que possam influenciar a receita.
+
+### 7. Principais conclusões
+
+A análise dos dashboards permitiu identificar:
+
+- Recuperação do faturamento após a queda registrada em 2022.
+- Crescimento do faturamento em 2023 e 2024.
+- Maior concentração de receita nas categorias Maquiagem e Perfumes.
+- Diferenças relevantes de desempenho entre os produtos.
+- Possibilidades de aprofundamento das análises por categoria, período e localização.
+
+A atividade contribuiu para o desenvolvimento da minha capacidade de interpretar indicadores, identificar tendências e formular perguntas analíticas a partir dos dados apresentados.
+
+Como continuidade dos estudos, pretendo aprofundar as análises para compreender melhor os fatores relacionados às variações de faturamento e ao desempenho dos produtos.
+
 ## Processo de aprendizado
 
 Além dos dashboards principais, o arquivo contém páginas auxiliares utilizadas durante as aulas para praticar diferentes tipos de gráficos, parâmetros e funcionalidades do Power BI.
