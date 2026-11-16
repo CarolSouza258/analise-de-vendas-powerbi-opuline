@@ -143,12 +143,21 @@ Com essas medidas, pratiquei:
 - Aplicação de condições lógicas com `IF`.
 - Construção de indicadores de faturamento, quantidade e metas.
 
-## Power Query
+## Tratamento de Dados com Power Query
 
-O Power Query foi utilizado durante as atividades práticas de preparação dos dados para análise.
+Durante o desenvolvimento do projeto OPULINE, como parte das atividades práticas do curso da Alura, utilizei o Power Query para praticar a preparação e a transformação dos dados antes da construção dos dashboards.
 
-Esta seção poderá ser complementada com as transformações realizadas durante o curso.
+Entre as operações realizadas durante as aulas, destacam-se:
 
+- **Importação de dados:** conexão com a fonte de dados utilizada no projeto.
+- **Promoção de cabeçalhos:** organização dos nomes das colunas para facilitar a identificação das informações.
+- **Alteração de tipos de dados:** adequação dos campos aos formatos necessários para análise.
+- **Remoção de colunas:** exclusão de informações que não seriam utilizadas nas análises.
+- **Remoção de duplicatas:** tratamento de registros repetidos nas consultas correspondentes.
+
+As consultas foram organizadas em tabelas relacionadas a produtos, pedidos, marcas, categorias e metas.
+
+Essas atividades permitiram praticar conceitos de preparação e estruturação de dados, fundamentais para o desenvolvimento de relatórios no Power BI.
 ## Processo de aprendizado
 
 Além dos dashboards principais, o arquivo contém páginas auxiliares utilizadas durante as aulas para praticar diferentes tipos de gráficos, parâmetros e funcionalidades do Power BI.
