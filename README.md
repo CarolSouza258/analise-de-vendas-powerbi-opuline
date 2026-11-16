@@ -158,6 +158,15 @@ Entre as operações realizadas durante as aulas, destacam-se:
 As consultas foram organizadas em tabelas relacionadas a produtos, pedidos, marcas, categorias e metas.
 
 Essas atividades permitiram praticar conceitos de preparação e estruturação de dados, fundamentais para o desenvolvimento de relatórios no Power BI.
+
+### Observação sobre a fonte de dados
+
+Este projeto foi desenvolvido durante um curso da Alura, utilizando uma base de dados disponibilizada para as atividades práticas.
+
+Os dados previamente importados, as medidas DAX, os relacionamentos e os dashboards permanecem disponíveis no arquivo Power BI.
+
+Entretanto, a fonte Excel original não está mais disponível. Dessa forma, a atualização dos dados e a execução de determinadas etapas do Power Query dependem da recuperação ou reconexão à fonte original.
+
 ## Processo de aprendizado
 
 Além dos dashboards principais, o arquivo contém páginas auxiliares utilizadas durante as aulas para praticar diferentes tipos de gráficos, parâmetros e funcionalidades do Power BI.
